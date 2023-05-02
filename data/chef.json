@@ -1,0 +1,58 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/zRCMzv0/download.jpg",
+      "name": "Chef John Smith",
+      "experience_years": 10,
+      "num_recipes": 50,
+      "likes": 1000,
+      "view_recipes_button": "https://example.com/chef1/recipes"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/h1NFxwt/images.jpg",
+      "name": "Chef Jane Doe",
+      "experience_years": 5,
+      "num_recipes": 30,
+      "likes": 500,
+      "view_recipes_button": "https://example.com/chef2/recipes"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/yfs7yhR/images-1.jpg",
+      "name": "Chef David Lee",
+      "experience_years": 8,
+      "num_recipes": 40,
+      "likes": 800,
+      "view_recipes_button": "https://example.com/chef3/recipes"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/qNhNZS5/images-2.jpg",
+      "name": "Chef Sarah Johnson",
+      "experience_years": 3,
+      "num_recipes": 20,
+      "likes": 300,
+      "view_recipes_button": "https://example.com/chef4/recipes"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/T0zCk0b/download-1.jpg",
+      "name": "Chef Alex Brown",
+      "experience_years": 12,
+      "num_recipes": 60,
+      "likes": 1200,
+      "view_recipes_button": "https://example.com/chef5/recipes"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/6tL7qpJ/images-3.jpg",
+      "name": "Chef Maria Garcia",
+      "experience_years": 6,
+      "num_recipes": 35,
+      "likes": 700,
+      "view_recipes_button": "https://example.com/chef6/recipes"
+    }
+  ]
+}
