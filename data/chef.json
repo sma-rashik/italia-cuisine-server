@@ -7,7 +7,8 @@
       "experience_years": 10,
       "num_recipes": 50,
       "likes": 1000,
-      "view_recipes_button": "https://example.com/chef1/recipes"
+      "view_recipes_button": "https://example.com/chef1/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "experience_years": 5,
       "num_recipes": 30,
       "likes": 500,
-      "view_recipes_button": "https://example.com/chef2/recipes"
+      "view_recipes_button": "https://example.com/chef2/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "experience_years": 8,
       "num_recipes": 40,
       "likes": 800,
-      "view_recipes_button": "https://example.com/chef3/recipes"
+      "view_recipes_button": "https://example.com/chef3/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "experience_years": 3,
       "num_recipes": 20,
       "likes": 300,
-      "view_recipes_button": "https://example.com/chef4/recipes"
+      "view_recipes_button": "https://example.com/chef4/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "experience_years": 12,
       "num_recipes": 60,
       "likes": 1200,
-      "view_recipes_button": "https://example.com/chef5/recipes"
+      "view_recipes_button": "https://example.com/chef5/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "experience_years": 6,
       "num_recipes": 35,
       "likes": 700,
-      "view_recipes_button": "https://example.com/chef6/recipes"
+      "view_recipes_button": "https://example.com/chef6/recipes",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
     }
   ]
 }
