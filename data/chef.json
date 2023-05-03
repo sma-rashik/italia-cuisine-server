@@ -8,7 +8,7 @@
       "num_recipes": 50,
       "likes": 1000,
       "view_recipes_button": "https://example.com/chef1/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and .",
       "recipes": [
         {
           "name": "Beef Stroganoff",
@@ -45,7 +45,7 @@
       "num_recipes": 30,
       "likes": 500,
       "view_recipes_button": "https://example.com/chef2/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes.  over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
       "recipes": [
         {
           "name": "Beef Stroganoff",
