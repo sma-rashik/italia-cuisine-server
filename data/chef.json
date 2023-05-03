@@ -8,7 +8,34 @@
       "num_recipes": 50,
       "likes": 1000,
       "view_recipes_button": "https://example.com/chef1/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     },
     {
       "id": "4tkv9g",
@@ -18,7 +45,34 @@
       "num_recipes": 30,
       "likes": 500,
       "view_recipes_button": "https://example.com/chef2/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     },
     {
       "id": "1ejm6d",
@@ -28,7 +82,34 @@
       "num_recipes": 40,
       "likes": 800,
       "view_recipes_button": "https://example.com/chef3/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     },
     {
       "id": "3hrk8t",
@@ -38,7 +119,34 @@
       "num_recipes": 20,
       "likes": 300,
       "view_recipes_button": "https://example.com/chef4/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     },
     {
       "id": "5yfv2a",
@@ -48,7 +156,34 @@
       "num_recipes": 60,
       "likes": 1200,
       "view_recipes_button": "https://example.com/chef5/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     },
     {
       "id": "8nlp7e",
@@ -58,7 +193,34 @@
       "num_recipes": 35,
       "likes": 700,
       "view_recipes_button": "https://example.com/chef6/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation."
+      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and innovation.",
+      "recipes": [
+        {
+          "name": "Beef Stroganoff",
+          "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
+          "rating": 4.5
+        },
+        {
+          "name": "Garlic Shrimp Scampi",
+          "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Fajitas",
+          "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
+          "rating": 4.3
+        },
+        {
+          "name": "Classic Lasagna",
+          "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
+          "rating": 4.6
+        },
+        {
+          "name": "Baked Salmon",
+          "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
+          "rating": 4.9
+        }
+      ]
     }
   ]
 }
