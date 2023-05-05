@@ -8,32 +8,60 @@
       "num_recipes": 50,
       "likes": 1000,
       "view_recipes_button": "https://example.com/chef1/recipes",
-      "bio": "This Person  is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and .",
+      "bio": "This Person is a master of fusion cuisine, blending flavors and techniques from around the world to create unique, unforgettable dishes. With over years of experience in the kitchen, David has earned a reputation for his creativity and .",
       "recipes": [
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "egg noodles"
+          ],
+          "cooking_method": "Sear beef, sauté mushrooms and onions, simmer in a sour cream sauce and serve over cooked egg noodles."
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": ["shrimp", "linguine", "butter", "garlic", "lemon"],
+          "cooking_method": "Sauté shrimp and garlic in butter, toss with cooked linguine and lemon juice."
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "chicken",
+            "bell peppers",
+            "onion",
+            "lime",
+            "tortillas"
+          ],
+          "cooking_method": "Marinate chicken in lime juice, sauté with bell peppers and onions, serve in tortillas."
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "ground beef",
+            "lasagna noodles",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese"
+          ],
+          "cooking_method": "Layer cooked lasagna noodles with a tomato sauce and a mixture of ground beef, ricotta and mozzarella cheeses."
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": ["salmon", "lemon", "butter", "garlic", "dill"],
+          "cooking_method": "Season salmon with butter, garlic, and dill, and bake in the oven until cooked through."
         }
       ]
     },
@@ -50,27 +78,73 @@
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef",
+            "mushrooms",
+            "sour cream",
+            "onion",
+            "garlic",
+            "beef broth",
+            "egg noodles"
+          ]
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": [
+            "shrimp",
+            "garlic",
+            "butter",
+            "white wine",
+            "lemon",
+            "parsley",
+            "linguine"
+          ]
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "chicken breasts",
+            "bell peppers",
+            "onion",
+            "lime",
+            "cumin",
+            "chili powder",
+            "tortillas"
+          ]
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "ground beef",
+            "lasagna noodles",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "Parmesan cheese",
+            "garlic"
+          ]
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": [
+            "salmon fillets",
+            "lemon",
+            "olive oil",
+            "garlic",
+            "salt",
+            "black pepper",
+            "dill"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         }
       ]
     },
@@ -87,27 +161,72 @@
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         }
       ]
     },
@@ -124,27 +243,72 @@
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef sirloin",
+            "sour cream",
+            "onion",
+            "mushrooms",
+            "beef broth",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": [
+            "shrimp",
+            "garlic",
+            "butter",
+            "white wine",
+            "lemon",
+            "linguine"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "chicken breast",
+            "bell pepper",
+            "onion",
+            "lime",
+            "sour cream",
+            "tortillas"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "tomato sauce",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "parmesan cheese"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": [
+            "salmon fillet",
+            "lemon",
+            "dill",
+            "butter",
+            "garlic",
+            "asparagus"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         }
       ]
     },
@@ -161,27 +325,60 @@
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef sirloin",
+            "onion",
+            "mushrooms",
+            "sour cream",
+            "egg noodles"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": ["shrimp", "garlic", "butter", "lemon", "parsley"]
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "chicken breasts",
+            "bell peppers",
+            "onion",
+            "lime",
+            "tortillas"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "ricotta cheese",
+            "tomato sauce",
+            "mozzarella cheese"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": [
+            "salmon fillets",
+            "lemon",
+            "dill",
+            "olive oil",
+            "salt and pepper"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         }
       ]
     },
@@ -198,27 +395,55 @@
         {
           "name": "Beef Stroganoff",
           "picture": "https://i.ibb.co/3r4NXF5/vitello-tonnato-1643401533.webp",
-          "rating": 4.5
+          "rating": 4.5,
+          "ingredients": [
+            "beef",
+            "onion",
+            "sour cream",
+            "mushrooms",
+            "beef broth"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Garlic Shrimp Scampi",
           "picture": "https://i.ibb.co/hDcQ7HZ/osso-buco-alla-milanese-1643401533-kpg.webp",
-          "rating": 4.8
+          "rating": 4.8,
+          "ingredients": ["shrimp", "garlic", "lemon", "butter", "pasta"],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Chicken Fajitas",
           "picture": "https://i.ibb.co/R67DWF1/bistecca-fiorentina-1643401533.webp",
-          "rating": 4.3
+          "rating": 4.3,
+          "ingredients": [
+            "chicken",
+            "bell peppers",
+            "onion",
+            "tortillas",
+            "fajita seasoning"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Classic Lasagna",
           "picture": "https://i.ibb.co/cysGYYg/fritto-misto-1643675303.webp",
-          "rating": 4.6
+          "rating": 4.6,
+          "ingredients": [
+            "ground beef",
+            "lasagna noodles",
+            "ricotta cheese",
+            "mozzarella cheese",
+            "tomato sauce"
+          ],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         },
         {
           "name": "Baked Salmon",
           "picture": "https://i.ibb.co/9HHHMcP/pizza-napoletana-1643401533.webp",
-          "rating": 4.9
+          "rating": 4.9,
+          "ingredients": ["salmon", "lemon", "butter", "garlic", "dill"],
+          "cooking_method": "Brown beef and garlic. Layer with cooked noodles, tomato sauce, and cheese. Bake until cheese is melted."
         }
       ]
     }
